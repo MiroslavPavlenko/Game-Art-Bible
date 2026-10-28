@@ -10,15 +10,14 @@ It's **1945** CCCR invaded Berlin the capital of Nazi regime. All gardents where
 
 ## 2. The World
 
-![[BerlinMap.png]]
+![Berlin Map](BerlinMap.png)
 The game takes place in actual location of earth in Berlin Germany with simalar physical constraint. There will be different weather and it will directly effect player. It has couple rivers going throw and they will be chalenges player has to face. the game as self will be procedurally generated but in constraints of the map.
 
 The world humants will be swap around as vegetables and incest like in the kids books. Wich will tone down the grimnes of hapening.
 
 ## 3. Political / Societal Map
 
-Provide **1 map** showing who lives where, layered on top of your terrain map.
-![[Berlin’s Whimsical Occupation Map.png]]
+![Berlin's Whimsical Occupation Map](Berlin%E2%80%99s%20Whimsical%20Occupation%20Map.png)
 The world is divided between multiple factions fighting for control of Berlin. The **Potatoes (CCCR)** control the northwestern territories, where they build farms, settlements, and military bases. The **Worms (Nazis)** control the eastern territories, where they destroy cities and build underground tunnels. The British and American factions control the western and southern parts of the city. The map was created by a potato military cartographer working for the CCCR to document enemy territories and important locations. Since he works for the potatoes, the map mostly shows their perspective of the war. Some areas in the east are left unexplored because nobody knows what is happening there, and many potato scouts who traveled there never returned.
 
 ## 4. Timeline
